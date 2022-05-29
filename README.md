@@ -2,7 +2,7 @@
 - 👀 I’m interested in dao
 - 🌱 I’m currently learning best practices
 - 💞️ I’m looking to collaborate on daos and treasury managment
-- 📫 How to reach me ...
+- 📫 How to reach me sergiey.nemirow@interia.pl
 
 <!---
 daosrepository/daosrepository is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
